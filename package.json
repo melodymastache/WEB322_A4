@@ -1,0 +1,27 @@
+{
+  "name": "web322-a4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodymastache/WEB322_A4.git"
+  },
+  "author": "Citlalli Melody Mastache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodymastache/WEB322_A4/issues"
+  },
+  "homepage": "https://github.com/melodymastache/WEB322_A4#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "multer": "^1.4.2",
+    "sequelize": "^5.21.3"
+  }
+}
