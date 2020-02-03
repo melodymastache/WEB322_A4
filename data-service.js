@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-// TO DO: check connection
+// TO DO: Create new database and connect to that one instead.
 var sequelize = new Sequelize('d38m999qv8ds7f', 'blpukoropsahyc', '4b008739258eb7c856bcd5aeefb0a18293e63f3afb3457b35c08ca09ef153adf',
   {
     host: 'ec2-23-23-241-119.compute-1.amazonaws.com',
